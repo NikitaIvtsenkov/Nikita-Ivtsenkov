@@ -1,6 +1,6 @@
 # Tere! Olen Nikita
 
-Õpin Haapsalu Kutsehariduskeskuses [eriala nimi].
+Õpin Haapsalu Kutsehariduskeskuses IT-valdkonnas
 
 ## Minust
 
