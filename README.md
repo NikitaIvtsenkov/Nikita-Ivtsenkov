@@ -11,6 +11,6 @@
 
 | Õppeaine | Mida oskan |
 |---|---|
-| [aine nimi] | [1–2 asja] |
-| [aine nimi] | [1–2 asja] |
-| [aine nimi] | [1–2 asja] |
+| Arvutivõrkude alused | IP-address, Kaabli tegemine ja erinevad käsud |
+| Dokumentatsiooni loomine | Excel, Word ja Powerpoint |
+| Digisisu loomine | Solid edge ja 3D printimine |
